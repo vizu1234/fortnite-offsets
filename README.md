@@ -31,7 +31,7 @@ This repository is for educational and research purposes only. Please ensure you
 
 ---
 
-**Made with ❤️ by [Vizu](https://github.com/vizu1234)**
+**Made with ❤️ by [Vizu](https://github.com/vizu1234) & [Nopels.sys](https://github.com/nopels.sys)**
 
 *This project is maintained independently and is not affiliated with Epic Games or Fortnite.*
 </div>
